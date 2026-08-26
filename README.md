@@ -73,22 +73,8 @@ Run the MCP server manually or register it under your AI assistant's MCP configu
   }
 }
 
-
 Usage
 Start your server script or let your MCP-compatible client (like Antigravity CLI or Claude Desktop) manage it automatically via stdio transport.
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
